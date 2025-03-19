@@ -25,6 +25,7 @@ python test.py
 **按照以下步骤启动 Go 项目：**
 
 ```bash
+git clone https://github.com/smithgoo/go-go-go.git
 go run main.go  # 运行 Go 代码
 go build main.go  # 编译 Go 项目
 ./main  # 运行编译后的可执行文件
@@ -34,6 +35,7 @@ go build main.go  # 编译 Go 项目
 **启动 Flutter 项目的步骤如下：**
 
 ```bash
+git clone https://github.com/smithgoo/yoyo_player_3.24.5.git
 flutter doctor  # 检查 Flutter 环境
 flutter run  # 运行 Flutter 项目
 ```
