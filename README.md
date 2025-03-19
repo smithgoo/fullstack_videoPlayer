@@ -1,6 +1,43 @@
-*准备工作
-    **要会的技栈(go/flutter/ios/android/vue/mysql/python)
-    **1.首先要拿到数据源 先运行 test.py文件 爬取的是 shandian.zy 然后也能爬取 tiankong.zy
-    **2.运行go 项目 先运行 go run main.go 然后运行 go build main.go 然后运行./main 就可以运行了
-    **3.运行flutter项目 先运行 flutter doctor 然后运行 flutter run 就可以运行了 
-    内网穿透 cpolar
+# 项目准备工作
+
+## 要掌握的技术栈
+* **Go**
+* **Flutter**
+* **iOS**
+* **Android**
+* **Vue**
+* **MySQL**
+* **Python**
+
+## 1. 获取数据源
+**首先，需要运行 `test.py` 文件来爬取数据。**
+
+### 爬取支持的网站：
+* `shandian.zy`
+* `tiankong.zy`
+
+**运行方式：**
+```bash
+python test.py
+```
+
+## 2. 运行 Go 项目
+**按照以下步骤启动 Go 项目：**
+
+```bash
+go run main.go  # 运行 Go 代码
+go build main.go  # 编译 Go 项目
+./main  # 运行编译后的可执行文件
+```
+
+## 3. 运行 Flutter 项目
+**启动 Flutter 项目的步骤如下：**
+
+```bash
+flutter doctor  # 检查 Flutter 环境
+flutter run  # 运行 Flutter 项目
+```
+
+## 内网穿透（cpolar）
+**如果需要内网穿透，可以使用 `cpolar` 进行配置和启动。**
+
