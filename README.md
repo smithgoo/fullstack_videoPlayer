@@ -1,3 +1,4 @@
+# 仅做学习和交流使用，请勿用于商业用途！
 # 项目准备工作
 
 ## 要掌握的技术栈
@@ -26,7 +27,7 @@ python test.py
 
 ```bash
 git clone https://github.com/smithgoo/go-go-go.git
-go run main.go  # 运行 Go 代码
+go run main.go  # 运行 Go 代码·
 go build main.go  # 编译 Go 项目
 ./main  # 运行编译后的可执行文件
 ```
@@ -42,4 +43,6 @@ flutter run  # 运行 Flutter 项目
 
 ## 内网穿透（cpolar）
 **如果需要内网穿透，可以使用 `cpolar` 进行配置和启动。**
+
+# 仅做学习和交流使用，请勿用于商业用途！
 
